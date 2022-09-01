@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andreluis14
 - 👀 I’m interested in fotebol andar de bicicletas e passeios
 - 🌱 I’m currently learning programaçâo
-- 💞️ I’m looking to collaborate on natureza
+- 💞️ I’m looking to collaborate on computaçâo e para a natureza
 - 📫 How to reach me 
 
 <!---
