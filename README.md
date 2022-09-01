@@ -2,7 +2,7 @@
 - 👀 I’m interested in fotebol andar de bicicletas e passeios
 - 🌱 I’m currently learning programaçâo
 - 💞️ I’m looking to collaborate on computaçâo e para a natureza
-- 📫 How to reach me 
+- 📫 How to reach me andre.santos.garcia@escola.pr.gov.br
 
 <!---
 andreluis14/andreluis14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
